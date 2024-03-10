@@ -1,6 +1,6 @@
 # login_page_using_classes
 
-A new Flutter project.
+A new Flutter project. This also incorporates the use of Firebase to sign a user up and redirect to a success page if correct details entered at the login page.
 
 ## Getting Started
 
